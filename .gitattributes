@@ -1,0 +1,2 @@
+reports/detected_anomalies.csv filter=lfs diff=lfs merge=lfs -text
+reports/*.csv filter=lfs diff=lfs merge=lfs -text
